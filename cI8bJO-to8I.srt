@@ -1,0 +1,928 @@
+1
+00:00:09,700 --> 00:00:12,150
+I took a bike trip to Xinjiang in 2019.
+
+2
+00:00:12,525 --> 00:00:15,075
+Though fun from riding was the main motive then,
+
+3
+00:00:15,775 --> 00:00:18,675
+this thousand-mile trip to Xinjiang was for something totally different.
+
+4
+00:00:20,050 --> 00:00:22,700
+There was a piece from Buzzfeed a while back,
+
+5
+00:00:23,125 --> 00:00:27,900
+supposedly locating many concentration camps in Xinjiang using satellite imagery.
+
+6
+00:00:28,725 --> 00:00:30,375
+But due to Chinese government policies,
+
+7
+00:00:30,775 --> 00:00:34,850
+it's now very difficult for foreign journalists to report in Xinjiang.
+
+8
+00:00:35,525 --> 00:00:36,675
+I thought,
+
+9
+00:00:36,925 --> 00:00:38,000
+"Foreign journalists can't enter,
+
+10
+00:00:38,025 --> 00:00:39,525
+but I can."
+
+11
+00:00:39,800 --> 00:00:43,400
+Besides, the aim of this series of films was
+
+12
+00:00:43,400 --> 00:00:45,750
+to record meaningful things.
+
+13
+00:00:46,150 --> 00:00:48,775
+I won't just eat, drink and be merry.
+
+14
+00:00:49,475 --> 00:00:52,350
+There is only satellite imagery on the website.
+
+15
+00:00:52,900 --> 00:00:54,775
+Where the marked buildings specifically are,
+
+16
+00:00:55,050 --> 00:00:56,575
+How they really look,
+
+17
+00:00:57,025 --> 00:00:58,775
+And how their surroudings are -
+
+18
+00:00:59,225 --> 00:01:01,700
+I returned to Xinjiang with those doubts.
+
+19
+00:01:05,550 --> 00:01:08,900
+I encounter two checkpoints right off the 哈密市東郊的高速.
+
+20
+00:01:09,350 --> 00:01:10,650
+The first is expected,
+
+21
+00:01:11,100 --> 00:01:14,150
+but I don't foresee another police check at a village junction.
+
+22
+00:01:14,700 --> 00:01:16,375
+Tourists aren't usually here
+
+23
+00:01:16,725 --> 00:01:18,175
+so I initially don't turn in
+
+24
+00:01:18,400 --> 00:01:20,275
+visiting the corner shop instead
+
+25
+00:01:20,900 --> 00:01:23,125
+Here, I pretend to be a tourist buying things.
+
+26
+00:01:24,975 --> 00:01:26,550
+But the police officer doesn't stop me.
+
+27
+00:01:26,875 --> 00:01:29,200
+He's obviously not interested in my car with inter-provincial plates.
+
+28
+00:01:34,975 --> 00:01:37,600
+This side street runs parallel to the Lianhuo Expressway
+
+29
+00:01:37,950 --> 00:01:40,625
+with many fields and farmhouses alongside.
+
+30
+00:01:42,300 --> 00:01:45,800
+Because the Mapbox imagery was captured before 2017,
+
+31
+00:01:46,300 --> 00:01:49,850
+and ones found on Baidu are medium-res imagery from faraway,
+
+32
+00:01:50,825 --> 00:01:55,125
+I can only rely on some obvious, unchanging characteristics.
+
+33
+00:01:55,375 --> 00:01:58,350
+to locate them on normal road maps.
+
+34
+00:02:02,425 --> 00:02:05,425
+The first gray target to be filmed is here in North Village (北村).
+
+35
+00:02:07,025 --> 00:02:09,425
+There is a brand new yet narrow paved road
+
+36
+00:02:09,425 --> 00:02:11,575
+that is however not shown on Baidu maps.
+
+37
+00:02:13,250 --> 00:02:14,600
+The asphalt road seems quite suspicious,
+
+38
+00:02:15,000 --> 00:02:18,550
+as most roads of this width in Xinjiang are made of dirt.
+
+39
+00:02:19,000 --> 00:02:20,375
+Cotton occupies the surroudings.
+
+40
+00:02:20,850 --> 00:02:22,525
+A pink building lies in the distance.
+
+41
+00:02:22,850 --> 00:02:25,100
+seemingly out of place among the surrouding farmhouses.
+
+42
+00:02:27,750 --> 00:02:31,075
+But closed-off windows and wire fences aren't seen by this building,
+
+43
+00:02:31,400 --> 00:02:32,700
+and it's a gray target.
+
+44
+00:02:32,875 --> 00:02:34,175
+I don't observe closely,
+
+45
+00:02:34,350 --> 00:02:35,875
+only counting it as something suspicious.
+
+46
+00:02:37,575 --> 00:02:39,100
+I don't dare go too near
+
+47
+00:02:39,300 --> 00:02:41,300
+as I was quite anxious,
+
+48
+00:02:41,600 --> 00:02:44,775
+learning from the last drone incident in Tibet.
+
+49
+00:02:45,200 --> 00:02:48,775
+I don't want to run right into the police the first time filming,
+
+50
+00:02:49,175 --> 00:02:51,150
+so my movement is very cautious.
+
+51
+00:02:53,275 --> 00:02:55,025
+And another note:
+
+52
+00:02:55,125 --> 00:02:58,975
+I haven't recorded any on-scene commentary during the whole course
+
+53
+00:02:58,975 --> 00:03:00,425
+because of safety concerns.
+
+54
+00:03:00,800 --> 00:03:02,700
+Since if I recorded a piece of commentary,
+
+55
+00:03:02,700 --> 00:03:05,575
+"This is a concentration camp in ... in Xinjiang",
+
+56
+00:03:05,575 --> 00:03:08,200
+and were then stopped by police to check the footage,
+
+57
+00:03:08,550 --> 00:03:11,100
+then I myself would be in a concentration camp.
+
+58
+00:03:12,275 --> 00:03:15,100
+Going west towards Kumul City on country roads,
+
+59
+00:03:15,400 --> 00:03:16,675
+passing by Kumul Train Station,
+
+60
+00:03:16,750 --> 00:03:19,025
+I arrive at Advance (前進) Avenue and August First North (八一北) Road.
+
+61
+00:03:29,100 --> 00:03:30,600
+Here is a yellow target.
+
+62
+00:03:31,000 --> 00:03:34,350
+The garden to the east is easily distinguishable.
+
+63
+00:03:34,500 --> 00:03:36,325
+The target lies to the west.
+
+64
+00:03:37,025 --> 00:03:40,775
+Only after passing the intersection do I notice this being the Kumul Compulsory Drug Qurantine Treatment Centre,
+
+65
+00:03:44,750 --> 00:03:46,250
+neighboured by an apartment complex.
+
+66
+00:03:48,600 --> 00:03:50,800
+The 戒毒所 is not marked on Baidu Maps.
+
+67
+00:03:51,450 --> 00:03:53,050
+All windows are closed off.
+
+68
+00:03:53,450 --> 00:03:54,975
+There is also barbed wire atop the walls.
+
+69
+00:03:55,650 --> 00:03:58,250
+The facilities here are totally capable of being used as a concentration camp.
+
+70
+00:03:58,700 --> 00:04:01,675
+But as the data from Mapbox is way too old,
+
+71
+00:04:01,925 --> 00:04:03,700
+being much different to the present situation.
+
+72
+00:04:04,125 --> 00:04:06,175
+So it can be considered likely, but not certain.
+
+73
+00:04:06,175 --> 00:04:08,725
+The "Drug Treatment Centre" lies on the yellow target.
+
+74
+00:04:11,075 --> 00:04:13,800
+There is a red target near Beijiao (北郊) Road in Kumul,
+
+75
+00:04:14,650 --> 00:04:16,825
+adjacent to 康和雅居社區.
+
+76
+00:04:20,650 --> 00:04:22,125
+Before driving into this small alleyway,
+
+77
+00:04:22,125 --> 00:04:25,425
+I first buy some stuff in the shop adjacent.
+
+78
+00:04:34,975 --> 00:04:38,425
+The gate shield says "Thirteenth Division Detention Centre" -
+
+79
+00:04:38,550 --> 00:04:39,975
+a government facility, it seems.
+
+80
+00:04:40,225 --> 00:04:41,425
+Cameras are everywhere.
+
+81
+00:04:41,550 --> 00:04:43,075
+I don't at all dare exiting the car to film.
+
+82
+00:04:44,000 --> 00:04:46,550
+I initially want to exit through the road's other end,
+
+83
+00:04:46,625 --> 00:04:48,675
+but find no way.
+
+84
+00:04:49,500 --> 00:04:52,050
+There is also barbed wire on the wall opposite the detention centre.
+
+85
+00:04:52,250 --> 00:04:53,325
+I can't risk staying longer,
+
+86
+00:04:53,350 --> 00:04:55,475
+pretending to have gone the wrong way, and leave.
+
+87
+00:04:56,025 --> 00:04:59,675
+This detention centre is also not marked on Baidu Maps.
+
+88
+00:05:11,725 --> 00:05:13,275
+On the second day, I head north from 天山,
+
+89
+00:05:13,525 --> 00:05:15,825
+first arriving in 木壘哈薩克自治縣.
+
+90
+00:05:17,000 --> 00:05:20,625
+On satellite imagery, I notice two targets slightly far from the road.
+
+91
+00:05:20,900 --> 00:05:23,400
+The other side are fields without much cover.
+
+92
+00:05:23,575 --> 00:05:24,850
+I think it's convenient to film,
+
+93
+00:05:25,125 --> 00:05:27,525
+but notice, as I near the centre of the fields,
+
+94
+00:05:27,550 --> 00:05:29,425
+it's prone to attracting people's attention -
+
+95
+00:05:29,600 --> 00:05:31,125
+not an optimal filming position.
+
+96
+00:05:41,925 --> 00:05:43,700
+I then try filming from another positiont
+
+97
+00:05:44,000 --> 00:05:46,600
+Guard towers and barbed wire are after all visible,
+
+98
+00:05:46,775 --> 00:05:48,375
+matching the yellow target's description.
+
+99
+00:05:48,725 --> 00:05:52,200
+But the precise locations of the two targets on the road map can't be confirmed.
+
+100
+00:05:59,175 --> 00:06:01,300
+At last, I head north from 人民南路.
+
+101
+00:06:04,900 --> 00:06:07,075
+Here lies 有農牧民培訓學校.
+
+102
+00:06:08,325 --> 00:06:11,325
+with "Vocational Training Centre" written on the wall
+
+103
+00:06:11,825 --> 00:06:12,825
+and barbed wire atop the walls,
+
+104
+00:06:12,900 --> 00:06:14,775
+which match characteristics of the gray targets.
+
+105
+00:06:15,325 --> 00:06:18,575
+Further up the road, a shield to the side says "Vocational Training Centre".
+
+106
+00:06:19,225 --> 00:06:21,950
+This should be the location of the watchtowers shown just then.
+
+107
+00:06:25,000 --> 00:06:26,375
+And then passing a health centre,
+
+108
+00:06:26,450 --> 00:06:27,900
+which is marked on Baidu Maps.
+
+109
+00:06:28,275 --> 00:06:30,175
+But neither the training centre nor detention centre is.
+
+110
+00:06:31,475 --> 00:06:33,200
+According to the above observations,
+
+111
+00:06:33,625 --> 00:06:37,525
+these two targets should be 木壘縣 Detention Centre and 農牧民培訓學校.
+
+112
+00:06:39,675 --> 00:06:41,575
+Going west towards 達吉木薩爾縣,
+
+113
+00:06:41,850 --> 00:06:43,200
+there is a yellow target,
+
+114
+00:06:43,350 --> 00:06:45,950
+quite recognisable on satellite maps,
+
+115
+00:06:46,500 --> 00:06:49,125
+lying on the north-west corner of Xiyu (西域) Road and West People's (人民西) Road.
+
+116
+00:06:52,875 --> 00:06:54,700
+It's nothingness on Baidu Maps,
+
+117
+00:06:54,800 --> 00:06:57,050
+but actually 吉木薩爾縣 Detention Centre.
+
+118
+00:07:00,000 --> 00:07:01,125
+Because of the tall walls,
+
+119
+00:07:01,225 --> 00:07:03,375
+only the walls and guardtowers can be filmed.
+
+120
+00:07:22,850 --> 00:07:24,550
+There are three targets in 阜康市 to the west.
+
+121
+00:07:24,825 --> 00:07:27,625
+Let's first visit this dark red target.
+
+122
+00:07:29,150 --> 00:07:33,525
+I carefully compare the blurry Baidu satellite imagery and Mapbox data,
+
+123
+00:07:34,025 --> 00:07:35,625
+confirming this location to be likely to
+
+124
+00:07:35,625 --> 00:07:39,725
+the northwest of G335國道寧朔路 and 南華路.
+
+125
+00:07:43,150 --> 00:07:45,425
+But it's not found nearby,
+
+126
+00:07:45,500 --> 00:07:47,275
+only an abandoned yard.
+
+127
+00:07:47,900 --> 00:07:49,550
+So either I'm wrong and can't find the place,
+
+128
+00:07:49,725 --> 00:07:51,700
+or the BFN website is wrong.
+
+129
+00:07:54,950 --> 00:07:57,300
+Going a bit further west along the G335 National Road,
+
+130
+00:07:57,375 --> 00:07:59,400
+there is a north-south unnamed road,
+
+131
+00:08:00,575 --> 00:08:03,500
+lying west of the Y109 Village Road.
+
+132
+00:08:04,325 --> 00:08:07,675
+Things like "軍墾農場" and "水磨新村" are marked on Baidu Maps.
+
+133
+00:08:10,000 --> 00:08:13,650
+The other two targets in Fukang are north of this unnamed road.
+
+134
+00:08:13,725 --> 00:08:17,025
+Barbed wires and watchtowers are clearly visible.
+
+135
+00:08:17,225 --> 00:08:19,500
+This should be the Fukang Detention Centre.
+
+136
+00:08:47,800 --> 00:08:50,250
+There are many targets in and around Urumqi.
+
+137
+00:08:50,625 --> 00:08:52,400
+I only visit four of them.
+
+138
+00:08:52,800 --> 00:08:56,050
+Three northern ones are north of 城北大道 and 東站路.
+
+139
+00:08:56,575 --> 00:09:00,700
+There is the marking "Urumqi市第二教育矯治局" on Baidu Maps.
+
+140
+00:09:01,350 --> 00:09:04,425
+This so-called 矯治局 actually also has a barb-wired courtyard.
+
+141
+00:09:05,175 --> 00:09:07,575
+There are surveilliance cameras once every few dozen metres.
+
+142
+00:09:08,075 --> 00:09:09,650
+To ensure filming quality,
+
+143
+00:09:09,675 --> 00:09:12,575
+I have to put on my backpack and strap on my camera.
+
+144
+00:09:13,300 --> 00:09:15,925
+This backpack mades me look unnatural.
+
+145
+00:09:16,175 --> 00:09:17,700
+Why would tourists come here?
+
+146
+00:09:18,375 --> 00:09:21,150
+I could only pray that no guards notice me.
+
+147
+00:09:21,650 --> 00:09:22,841
+After walking around, I notice:
+
+148
+00:09:22,841 --> 00:09:25,850
+There are not only three places walled off with barbed-wire.
+
+149
+00:10:04,475 --> 00:10:06,125
+I then drive once more around,
+
+150
+00:10:06,750 --> 00:10:10,000
+noticing a vegetable-tranport vehicle parked in front of a concentration camp.
+
+151
+00:10:14,300 --> 00:10:15,025
+Going further north,
+
+152
+00:10:15,075 --> 00:10:17,700
+passing an entrance of 第二矯治局
+
+153
+00:10:17,700 --> 00:10:20,150
+a strigently iron-fenced gate is seen.
+
+154
+00:10:20,575 --> 00:10:22,650
+So the 教育矯治局 is highly likely
+
+155
+00:10:22,725 --> 00:10:26,325
+to be also used as a low-security concentration camp. 
+
+156
+00:10:27,725 --> 00:10:29,825
+Northwards, there is a road running east to west
+
+157
+00:10:30,150 --> 00:10:31,450
+which isn't marked on Baidu Maps.
+
+158
+00:10:31,725 --> 00:10:33,575
+The street sign says Gaoke (高科) Road.
+
+159
+00:10:43,425 --> 00:10:46,225
+There are multiple large concentration areas south of this street,
+
+160
+00:10:46,225 --> 00:10:48,600
+all with guarded watchtowers.
+
+161
+00:10:50,550 --> 00:10:54,400
+高科路 is approximately 1.1 kilometres, measured using Baidu Maps.
+
+162
+00:10:54,675 --> 00:10:58,025
+Judging by the scale, many people are probably imprisoned here.
+
+163
+00:10:59,925 --> 00:11:03,275
+This is probably the largest concentration camp in Urumqi.
+
+164
+00:11:10,000 --> 00:11:12,250
+Note here the slogan on the roof:
+
+165
+00:11:12,525 --> 00:11:15,550
+The four characters, "Labour transformation", "cultural transformation", are faintly visible.
+
+166
+00:12:51,575 --> 00:12:55,600
+This red target south of Urumqi is actually Xishan (西山) Detention Centre.
+
+167
+00:12:58,000 --> 00:13:01,625
+Its location is clearly seen from the hilltop in Ya'shan (雅山) Park.
+
+168
+00:13:05,850 --> 00:13:08,225
+The characters "Fifth Captivity Area" stands atop a glass gate.
+
+169
+00:13:10,575 --> 00:13:12,600
+Glass rooftops protrude the buildings.
+
+170
+00:13:12,775 --> 00:13:15,375
+Inmates can presumably only breathe fresh air indoors.
+
+171
+00:13:53,150 --> 00:13:55,100
+Leaving Urumqi for Dawan Cheng,
+
+172
+00:13:55,775 --> 00:13:58,450
+there is an unremarkable small street off the G312 National Road.
+
+173
+00:14:09,125 --> 00:14:10,125
+Passing a railway bridge,
+
+174
+00:14:10,375 --> 00:14:12,275
+the road quickly becomes gravel.
+
+175
+00:14:20,300 --> 00:14:23,500
+I once again end up somewhere, where tourists shouldn't be.
+
+176
+00:14:24,000 --> 00:14:27,575
+Opposite the hill is a newly built, uncommissioned concentration camp.
+
+177
+00:14:27,975 --> 00:14:30,700
+As no cover is nearby, I can only crawl up the hill and film,
+
+178
+00:14:31,050 --> 00:14:33,125
+not risking getting caught by standing.
+
+179
+00:15:06,250 --> 00:15:08,075
+There is also another target in Dawan Cheng.
+
+180
+00:15:08,325 --> 00:15:10,825
+Presumably a detention centre, but I don't visit.
+
+181
+00:15:12,825 --> 00:15:14,950
+I go to the eastern outskirts of Korla on the last day.
+
+182
+00:15:15,800 --> 00:15:17,850
+This here is nothingness on Baidu Maps,
+
+183
+00:15:18,050 --> 00:15:21,775
+but information from BFN shows multiple concentration camps.
+
+184
+00:15:28,700 --> 00:15:30,850
+Heading towards the G218 National Road from the Northern Ring Road,
+
+185
+00:15:31,000 --> 00:15:32,925
+a Party's Defence Army garrison first lies,
+
+186
+00:15:33,225 --> 00:15:35,925
+clearly visible on Mapbox satellite maps.
+
+187
+00:15:55,525 --> 00:15:57,350
+Two tanks also occupy the garrison,
+
+188
+00:15:57,500 --> 00:16:00,000
+resembling the model that ran people over at Tian'anmen.
+
+189
+00:16:00,250 --> 00:16:00,975
+It actually isn't.
+
+190
+00:16:04,600 --> 00:16:06,325
+There is more than one garrison around here.
+
+191
+00:16:06,500 --> 00:16:08,125
+The nearby buildings might be barracks,
+
+192
+00:16:08,275 --> 00:16:09,825
+or other facilities.
+
+193
+00:16:11,700 --> 00:16:14,000
+There are many military trucks parked in the yard,
+
+194
+00:16:14,000 --> 00:16:16,175
+with likely many Party's Defence Army troops stationed here.
+
+195
+00:16:18,475 --> 00:16:19,900
+Behind those barracks,
+
+196
+00:16:20,025 --> 00:16:22,875
+there are barb-wired walls with watchtowers farther in the distance.
+
+197
+00:16:23,225 --> 00:16:25,175
+There lies the concentration camp.
+
+198
+00:16:25,850 --> 00:16:26,900
+I initially want to go nearer,
+
+199
+00:16:26,900 --> 00:16:28,800
+but there is unfortunaly no way there.
+
+200
+00:16:48,425 --> 00:16:50,900
+The last stop, Karasahr City Centre, has two targets.
+
+201
+00:16:51,425 --> 00:16:53,300
+First arriving at the northern bank of the Kaidu River,
+
+202
+00:17:09,250 --> 00:17:11,050
+stopping by an unnamed road,
+
+203
+00:17:11,050 --> 00:17:13,450
+newly built walls and watchtowers are filmed.
+
+204
+00:17:15,275 --> 00:17:17,250
+There is also a ring of buildings near the concentration camp.
+
+205
+00:17:30,825 --> 00:17:32,125
+There is a yellow target here.
+
+206
+00:17:32,475 --> 00:17:35,475
+The concentration camp is hidden behind this big red gate,
+
+207
+00:17:35,800 --> 00:17:37,675
+not easily noticeable driving by on the road.
+
+208
+00:17:47,175 --> 00:17:50,425
+河對面橋頭的位置是另外一個灰色標記所在
+
+209
+00:17:51,725 --> 00:17:54,475
+在橋上就能看見高大的黃色建築
+
+210
+00:17:57,250 --> 00:17:59,550
+There are only walls without barbed-wire or watchtowers;
+
+211
+00:17:59,850 --> 00:18:01,425
+windows are also not barred -
+
+212
+00:18:01,800 --> 00:18:04,550
+like the pink houses first seen in Kumul.
+
+213
+00:18:05,000 --> 00:18:07,300
+Buildings marked gray don't seem to be concentration camps.
+
+214
+00:18:10,500 --> 00:18:14,000
+Those were my on-site observations.
+
+215
+00:18:14,775 --> 00:18:16,475
+Due to the limited time and far distance,
+
+216
+00:18:16,475 --> 00:18:20,250
+I only investigated a few selected targets.
+
+217
+00:18:20,950 --> 00:18:25,625
+Most importantly, I could only film very limited footage before the walls.
+
+218
+00:18:26,025 --> 00:18:28,500
+More data of the same category would be quite meaningless anyway.
+
+219
+00:18:29,400 --> 00:18:33,325
+There are already many reports over concentration camps in Xinjiang by foreign media.
+
+220
+00:18:33,600 --> 00:18:37,700
+The last time I motorcycled there, I asked the local Han people,
+
+221
+00:18:37,950 --> 00:18:43,850
+some revealing Uyghur people being dedicated elsewhere as cheap labour.
+
+222
+00:18:44,075 --> 00:18:48,132
+Those Uyghurs who don't want to snitch on their compatriots for the Chinese Government
+
+223
+00:18:48,150 --> 00:18:50,275
+are also lead into concentration camps for re-education.
+
+224
+00:18:51,125 --> 00:18:53,950
+The Uyghur language is not allowed in schools.
+
+225
+00:18:54,275 --> 00:18:57,225
+During the 2019 Hong Kong Anti-Extradition Movement,
+
+226
+00:18:57,650 --> 00:18:59,475
+Chinese Government-controlled police personell
+
+227
+00:18:59,475 --> 00:19:03,625
+dared to relentlessly beat and kill people in front of so many foreign journalists.
+
+228
+00:19:04,575 --> 00:19:07,775
+Therefore, in somewhere like Xinjiang, where foreign can't at all enter,
+
+229
+00:19:08,125 --> 00:19:11,625
+abuse of the Uyghur people by the Chinese Government is even more unimaginable.
+
+230
+00:19:12,200 --> 00:19:15,000
+One who doesn't wish to be enslaved also doesn't want others enslaved.
+
+231
+00:19:15,550 --> 00:19:19,050
+May the Chinese Government, the CCP, soon dissolve and step down,
+
+232
+00:19:20,100 --> 00:19:22,525
+end these crimes against humanity.
+
